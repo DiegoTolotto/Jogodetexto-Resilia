@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    }
+    
+body {
+    background-image: url(https://images.alphacoders.com/115/thumb-1920-1156096.png);
+    background-size: 100%;
+}
+    
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    opacity: 0.8;
+}
+
+.tudo {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+    
+.tudo li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 5%;
+    padding: 30px 20px;
+}
+    
+main a {
+    text-decoration: none;
+    color: black;
+    }
+    
+main img {
+    box-sizing: border-box;
+    border: solid white 5px;
+    height: 300px;
+    width: 300px;
+}
+
+main img:hover {
+    border-color: black ;
+}
+
+main img:active {
+border-color: yellow;
+}
+        
+.habilidades {
+    background-color: black;
+    opacity: 0.8;
+    color: white;
+    font-size: 20px;
+}

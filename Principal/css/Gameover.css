@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    }
+    
+    body {
+        background-image: url(https://static.comicvine.com/uploads/original/11133/111330014/6099952-3945558808-giphy.gif);
+        background-size: 100%;
+    }
+    
+    header {
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 20px;
+        font-size: 30px;
+        font-family: 'Times New Roman', Times, serif;
+        opacity: 0.8;
+    }
+    
+    .tudo {
+        width: 100%;
+        margin: 0 auto; 
+        
+    }
+    
+    .tudo li {
+        display: inline-block;
+        text-align: center;
+ 
+    
+    }
+    
+    main a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    main img {
+        box-sizing: border-box;
+        border: solid white 5px;
+        height: 300px;
+        width: 300px;
+    }
+    
+        
+    
+    main h2, .habilidades {
+        background-color: black;
+        opacity: 0.8;
+        color: white;
+    }
+    
+    .habilidades p {
+        font-size: 20px;
+    }
+
+    .primeiro {
+        margin-top: 100px;
+        padding: 50px;
+        margin-left: 560px;
+        text-align: center;
+
+    }
+
+    strong {
+        color: yellow;
+        font-size: 30px;
+    }

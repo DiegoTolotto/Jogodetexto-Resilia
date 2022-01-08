@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    }
+    
+    body {
+        background-image: url(https://www.dccomics.com/sites/default/files/imce/2020/09-SEP/JimLee-JusticeLeague-Desktop_5f5a6ddd084ea2.67760390.jpg);
+        background-size: 100% 100%;
+    }
+    
+    header {
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 20px;
+        font-size: 30px;
+        font-family: 'Times New Roman', Times, serif;
+        opacity: 0.8;
+    }
+    
+    .tudo {
+    margin: 0 auto;
+    padding: 50px 0;
+    }
+    
+    .tudo li {
+        display: inline-flex;
+        text-align: center;
+        align-items: center;
+    }
+    
+    .Superman, .Batman, .Mulher {
+        margin: 70px;
+        text-align: center;
+    }
+    
+    
+    main h2, .descricao, .habilidades {
+        background-color: black;
+        opacity: 0.8;
+        color: white;
+    }
+    
+    .descricao, .habilidades p {
+        font-size: 20px;
+    }
+    
+    main a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    main img {
+        box-sizing: border-box;
+        border: solid white 5px;
+        height: 300px;
+        width: 300px;
+    }
