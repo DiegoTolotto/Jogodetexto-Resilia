@@ -1,1 +1,0 @@
- var primeiroBotao = document.se
