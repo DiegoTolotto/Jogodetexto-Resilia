@@ -19,6 +19,31 @@
         font-family: 'Times New Roman', Times, serif;
         opacity: 0.8;
     }
+
+    .btn {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        text-transform: uppercase;
+        font-weight: 700;
+        border: none;
+        padding: 10px;
+        cursor: pointer;
+    }
+
+    .btn-style {
+        background: grey;
+        color: white;
+    }
+
+    .btn-style:hover {
+        background-color: rgb(75, 75, 75);
+    }
+
+    .btn-style:active {
+        background-color: black;
+        color: yellow;
+        transform: 1s;
+    }
     
     .tudo {
         width: 940px;
