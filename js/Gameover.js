@@ -1,0 +1,38 @@
+function gameOver () {
+    document.write(`<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/Gameover.css">
+    <title>Game Over</title>
+</head>
+        <header>
+            <h1>Não foi dessa vez 😔</h1>
+        </header>
+    
+        <main>
+            <ul class="tudo">
+                    <Li class="primeiro">
+                        <a href="index.html"> <!--Inicio do jogo-->
+                            <h2>Game Over</h2>
+                            <img src="./Imagens/Game/Gameover.gif">
+    
+                            <div class="habilidades">
+                                <p>Agora já era, tudo foi destruido 😖</p>
+                                <p><strong>Tente novamente</strong></p>
+                            </div>
+
+                        </a>
+                    </Li>
+
+            </ul>
+        </main>
+        <script src="Jogo.js"></script>
+    </body>
+    
+    </html>
+</body>
+</html>`)
+}

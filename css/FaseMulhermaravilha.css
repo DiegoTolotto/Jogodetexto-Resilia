@@ -55,7 +55,7 @@
     border-color: yellow;
     }
             
-    .habilidades {
+    .habilidades, h2 {
         background-color: black;
         opacity: 0.8;
         color: white;

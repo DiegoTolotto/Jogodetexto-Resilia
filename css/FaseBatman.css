@@ -54,10 +54,11 @@ main img:hover {
 main img:active {
 border-color: yellow;
 }
-        
-.habilidades {
+
+.habilidades, h2 {
     background-color: black;
     opacity: 0.8;
     color: white;
     font-size: 20px;
 }
+
