@@ -1,6 +1,6 @@
 function botao () {
     while (true) {
-        var escolhaDeOpcao = prompt ("Para passar pelo segundo teste escolha corretamente quais são as habilidades da Mulher Maravilha \n A ou B")
+        var escolhaDeOpcao = prompt ("Para passar pelo segundo teste escolha corretamente, quais são as habilidades da Mulher Maravilha? \n A ou B")
         if (escolhaDeOpcao == "B") {
             return gameOver ();
             break;  

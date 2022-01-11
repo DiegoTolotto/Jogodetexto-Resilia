@@ -1,6 +1,6 @@
 function botao () {
     while (true) {
-        var escolhaDeOpcao = prompt ("Para passar pelo primeiro teste escolha corretamente qual das opções diz corretamente o que cada kryptonita causa ao Superman  \n A ou B")
+        var escolhaDeOpcao = prompt ("Para passar pelo primeiro teste escolha corretamente, qual das opções diz o que cada kryptonita causa ao Superman.  \n A ou B")
         if (escolhaDeOpcao == "B") {
             return gameOver ();
             break;  

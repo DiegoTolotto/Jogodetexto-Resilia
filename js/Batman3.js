@@ -1,6 +1,6 @@
 function botao () {
     while (true) {
-        var escolhaDeOpcao = prompt ("Para passar pelo ultimo teste escolha corretamente quais são os vilões do Batman  \n A ou B")
+        var escolhaDeOpcao = prompt ("Para passar pelo ultimo teste escolha corretamente, quais são os vilões do Batman?  \n A ou B")
         if (escolhaDeOpcao == "B") {
             return gameOver ();
             break;  
