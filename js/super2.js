@@ -16,7 +16,7 @@ function botao () {
     }    
 }
 
-var next = './FaseFinalsuperman.html'
+var next = './Fasefinalsuperman.html'
 var end = './Gameover.html'
 
 function proxima () {

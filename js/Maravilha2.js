@@ -16,7 +16,7 @@ function botao () {
     }    
 }
 
-var next = './FaseFinalMulhermaravilha.html'
+var next = './FasefinalMulhermaravilha.html'
 var end = './Gameover.html'
 
 function proxima () {
